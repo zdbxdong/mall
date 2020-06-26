@@ -5,7 +5,7 @@
 </template>
 
 <script>
-
+// import storage from './storage/index'
 
 
 export default {
@@ -19,6 +19,7 @@ export default {
     }
   },
   mounted(){
+    
 
   }
 }

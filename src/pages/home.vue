@@ -2,7 +2,7 @@
  <div>
    home
    <Nav-header></Nav-header>
-   <route-view></route-view>
+   <router-view></router-view>
    <Nav-footer></Nav-footer>
  </div>
 </template>
